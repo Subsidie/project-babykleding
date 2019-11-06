@@ -1,0 +1,91 @@
+body {
+    background-color: #EAEAE2;
+}
+
+.uitverkoop {
+    background-color: #505c5e;
+    height: 30px;
+    text-align: center;
+    padding: 3px;
+    color: white;
+    font-weight: bold;
+}
+
+#inloggen {
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 1450px;
+}
+
+#winkelmand {
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 1740px;
+}
+
+#catalogus {
+    color: darkgrey;
+    position: absolute;
+    top: 16px;
+    left: 210px;
+    font-size: 20px;
+}
+
+#contact {
+    color: darkgrey;
+    position: absolute;
+    top: 16px;
+    left: 1500px;
+    font-size: 20px;
+}
+
+#over {
+    color: darkgrey;
+    position: absolute;
+    top: 16px;
+    left: 1400px;
+    font-size: 20px;
+}
+
+#beurs {
+    color: darkgrey;
+    position: absolute;
+    top: 16px;
+    left: 1625px;
+    font-size: 20px;
+}
+
+#navonder {
+    background-color: white;
+    padding: 40px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 420px) {
+    .cont-teasers {
+        margin-left: 3%;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .cont-teasers {
+        margin-left: 8%;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .cont-teasers {
+        margin-left: 8%;
+    }
+}
+
+
